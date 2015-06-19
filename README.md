@@ -4,7 +4,9 @@ This unofficial version adds the option '-L' to log user lists in a format reada
 The option '-L' will generate txt files with the naming scheme '<IP>-<GROUP NAME>-users.txt' for each group in the domain. Entries are separated by a new line:
 
 DOMAIN\username1
+
 DOMAIN\username2
+
 DOMAIN\username3
 
 
